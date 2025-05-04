@@ -3,4 +3,6 @@ This is a simple CNN model trained to distinguish between hand-drawn circles, tr
 INSTALLATION
 1. Download the Python language from: https://www.python.org/
 2. Download and extract the files in the repo
-3. Run **gui.py** by starting a terminal in the file's directory and executing the command **python gui.py**
+3. Start a terminal in the file's directory
+4. Run **pip install -r requirements.txt** (this will install all necessary dependencies)
+6. Run **python gui.py** (this will start the app)
