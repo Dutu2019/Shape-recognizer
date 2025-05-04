@@ -1,0 +1,4 @@
+tensorflow
+PILLOW
+numpy
+matplotlib
