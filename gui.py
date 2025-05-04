@@ -5,7 +5,7 @@ import tensorflow as tf
 
 # Load your pre-trained model
 model = tf.keras.models.load_model('shape_recognizer.keras')
-class_names = ['circle', 'square', 'triangle']
+class_names = ['circle', 'rectangle', 'triangle']
 
 # Create canvas and image for drawing
 canvas_width = 280
